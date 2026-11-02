@@ -2,6 +2,8 @@
 
 Savoria is a modern restaurant website built with React, Vite, Tailwind CSS, and Framer Motion. It delivers a polished dining experience with multilingual support, responsive layouts, interactive menu browsing, reservation booking, cart and checkout flows, order history, dark mode, and an admin dashboard.
 
+<img src="Screenshot.png" />
+
 ## Overview
 
 This project is a front-end restaurant experience designed to showcase premium dining branding and user-friendly interactions. The interface includes a dynamic landing page, menu exploration with category filtering, reservation management, shopping cart functionality, and administrative tools for restaurant management.
